@@ -1,6 +1,6 @@
 ### Hi there 👋! Welcome to my GitHub profile! 
 
-I am Mengmeng. I am a PhD researcher in Statistical Signal Processing. I am passionate about Data Science. I will be sharing my jounery as I build up project experience in the data space.  
+I am Mengmeng. I am a PhD researcher in Statistical Signal Processing. I am passionate about Data Science. I will be sharing my journey as I build up project experience in the data space.  
 
 I live in Melbourne, Australia. In my free time, I like to read, watch TV series and play with my two cats😄.
 
