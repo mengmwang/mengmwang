@@ -8,7 +8,7 @@ I am currently learning:  R
 
 I live in Melbourne, Australia. In my free time, I like to read, watch TV series and play with my two cats 😄.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mengmwang&show_icons=true"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=mengmwang&show_icons=true"/>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mengmwang&layout=compact"/> -->
 
