@@ -4,7 +4,7 @@ I am Mengmeng. I am a PhD researcher in Statistical Signal Processing. I am pass
 
 I have experience in: Python, R, SQL, MATLAB
 
-I am currently learning:  Cloud Computing
+I am currently learning:  Cloud Computing and Machine Learning
 
 I live in Melbourne, Australia. In my free time, I like to read, watch TV series and play with my two cats 😄.
 
