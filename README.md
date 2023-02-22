@@ -6,8 +6,6 @@ I am confident in: Python, MATLAB
 
 I have experience in: R, SQL
 
-I am currently learning:  Cloud Computing
-
 I live in Melbourne, Australia. In my free time, I like to read, watch TV series and play with my two cats 😄.
 
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mengmwang&show_icons=true"/> -->
