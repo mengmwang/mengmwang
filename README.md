@@ -1,4 +1,4 @@
-### Hi there 👋! Welcome to my GitHub profile! 
+### Hi there! 👋 Welcome to my GitHub profile! 
 
 I am Mengmeng. I am a Data Scientist/PhD researcher in Statistical Signal Processing. 
 
