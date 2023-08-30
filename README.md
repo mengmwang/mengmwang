@@ -1,12 +1,14 @@
 ### Hi there! 👋 Welcome to my GitHub profile! 
 
-I am Mengmeng. I am a Data Scientist/PhD researcher in Statistical Signal Processing. 
+:woman_technologist: I am Mengmeng. I am currently working as a data scientist in Orygen, Centre for Youth Mental Health at the University of Melbourne. 
 
-I am confident in: Python, R, MATLAB
+:woman_technologist: I am a also PhD researcher/biomedical engineer.
 
-I have experience in: SQL
+:woman_technologist: I am confident in: Python, R, MATLAB
 
-I live in Melbourne, Australia. In my free time, I like to read, watch TV series and play with my two cats 😄.
+:woman_technologist: I have experience in: SQL
+
+:cat::cat: I live in Melbourne, Australia. In my free time, I like to read, watch TV series and play with my two cats 😄.
 
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mengmwang&show_icons=true"/> -->
 
