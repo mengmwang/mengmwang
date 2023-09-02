@@ -2,7 +2,7 @@
 
 :woman_technologist: I am Mengmeng. I am currently working as a data scientist in Orygen, Centre for Youth Mental Health at the University of Melbourne. 
 
-:woman_technologist: I am a also PhD researcher/biomedical engineer.
+:woman_technologist: I am also a PhD researcher/biomedical engineer.
 
 :woman_technologist: I am confident in: Python, R, MATLAB
 
