@@ -1,8 +1,8 @@
 ### Hi there! 👋 Welcome to my GitHub profile! 
 
-:woman_technologist: I am Mengmeng. I am currently working as a data scientist in Orygen, Centre for Youth Mental Health at the University of Melbourne. 
+:woman_technologist: I am Mengmeng. I am currently working as a data scientist/postdoctoral research fellow in the University of Melbourne. 
 
-:woman_technologist: I am also a PhD researcher/biomedical engineer.
+:woman_technologist: I am also a researcher/biomedical engineer/biostatistician.
 
 :woman_technologist: I am confident in: Python, R, MATLAB
 
