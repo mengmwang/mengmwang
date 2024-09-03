@@ -8,6 +8,8 @@
 
 :woman_technologist: I have experience in: SQL
 
+:woman_technologist: Work area: data processing, statistical analysis, machine learning, natural language processing
+
 :cat::cat: I live in Melbourne, Australia. In my free time, I like to read, watch TV series and play with my two cats 😄.
 
 <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mengmwang&show_icons=true"/> -->
