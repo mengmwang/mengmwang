@@ -2,7 +2,7 @@
 
 :woman_technologist: I am Mengmeng. I am currently working as a data scientist/postdoctoral research fellow in the University of Melbourne. 
 
-:woman_technologist: I am also a researcher/biomedical engineer/biostatistician.
+:woman_technologist: I am also a biomedical engineer/biostatistician.
 
 :woman_technologist: I am confident in: Python, R, MATLAB
 
