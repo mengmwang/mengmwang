@@ -10,14 +10,6 @@
 
 :woman_technologist: Work area: data processing, statistical analysis, machine learning, natural language processing
 
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mengmwang&show_icons=true"/> -->
-
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mengmwang&layout=compact"/> -->
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mengmwang&count_private=true&show_icons=true&theme=nord"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mengmwang&layout=compact&langs_count=5&theme=nord"/>
-
 <!--
 **mengmwang/mengmwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
