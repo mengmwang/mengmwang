@@ -8,7 +8,7 @@ I'm Mengmeng — a data scientist working across applied ML, GenAI, and statisti
 
 🛠️ Core toolkit: Python, R, SQL · XGBoost, SHAP · LLMs, RAG, local model deployment (Ollama)
 
-📄 PhD in statistical signal processing, University of Melbourne — [publications & background](https://mengmwang.github.io)
+📄 PhD in statistical signal processing, University of Melbourne — [publications & background](https://mengmwang.github.io/research/)
 
 📫 [LinkedIn](https://linkedin.com/in/mengmwang/) · [mengmwang.github.io](https://mengmwang.github.io)
 
